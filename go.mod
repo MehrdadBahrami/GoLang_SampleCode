@@ -1,3 +1,3 @@
-module example.com/HelloWorld
+module Mehrdad
 
 go 1.20
